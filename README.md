@@ -15,6 +15,6 @@
 	https://github.com/hidetomo117/gitignore/blob/master/Swift.gitignore
 
 4. git管理対象外の設定(すでにコミットしたファイルがある場合のみ)
-	
+
 	$ git rm -r --cached .
 	$ git add .
