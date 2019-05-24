@@ -12,7 +12,7 @@
 
 3 .gitignore編集
 
-	https://github.com/hidetomo117/gitignore/blob/master/Swift.gitignore
+	https://github.com/github/gitignore/blob/master/Swift.gitignore
 
 4 git管理対象外の設定(すでにコミットしたファイルがある場合のみ)
 
